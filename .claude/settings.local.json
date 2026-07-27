@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(rmdir /d/claude_project/worktree-demo-feature-b/.claude/skills/git-diff-guide)",
+      "Bash(rmdir /d/claude_project/worktree-demo-feature-b/.claude/skills)"
+    ]
+  }
+}
