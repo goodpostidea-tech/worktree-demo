@@ -1,9 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(mv \"C:\\\\Users\\\\SCJT\\\\.claude\\\\skills\\\\worktree-guide\\\\SKILL.md\" \"D:\\\\claude_project\\\\worktree-demo-feature-a\\\\.claude\\\\skills\\\\worktree-guide\\\\SKILL.md\")",
-      "Bash(rmdir \"C:\\\\Users\\\\SCJT\\\\.claude\\\\skills\\\\worktree-guide\")",
-      "Bash(git *)"
-    ]
-  }
-}
